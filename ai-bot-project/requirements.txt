@@ -1,0 +1,6 @@
+numpy
+pyaudio
+speechrecognition
+gtts
+transformers
+torch
