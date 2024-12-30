@@ -3,7 +3,7 @@ import openai
 
 app = Flask(__name__)
 
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "YOUR_API_KEY" #.txt - .env
 
 @app.route('/chat', methods=['POST'])
 def chat():
