@@ -2,3 +2,4 @@ openai: Do integracji z modelem GPT.
 flask: Do stworzenia backendu aplikacji.
 socketio: Do komunikacji między frontendem a backendem.
 pyttsx3: Do generowania mowy (Text-to-Speech).
+tts_api_key: Klucz API do usługi Text-to-Speech.
